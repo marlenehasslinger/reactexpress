@@ -5,10 +5,15 @@ A little app to test a nodes express back end that communicates with a react fro
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start` (in the root directory)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:5000](http://localhost:3000) to view it in the browser.
+Runs the back end in the development mode.<br />
+Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
+
+### `npm start` (in the client directory)
+
+Runs the client in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Data
 
