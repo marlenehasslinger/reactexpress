@@ -1,2 +1,15 @@
-# reactexpress
+## reactexpress
 A little app to test a nodes express back end that communicates with a react front end 
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:5000](http://localhost:3000) to view it in the browser.
+
+## Data
+
+The NodeJS server serves a json object that holds an array of cat objects
